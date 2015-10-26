@@ -1,0 +1,16 @@
+productid, unit price, description
+1, 80, 6 pack-tumblers
+2, 5, 10 pack-swizzle sticks
+1, 80, 6 pack-tumblers
+2, 5, 10 pack-swizzle sticks
+3, 10, Bag of ice
+2, 5, 10 pack-swizzle sticks
+5, 18.5, 2l Sprite
+2, 5, 10 pack-swizzle sticks
+3, 10, Bag of ice
+4, 20, 2l Coke
+3, 10, Bag of ice
+3, 10, Bag of ice
+3, 10, Bag of ice
+4, 20, 2l Coke
+5, 18.5, 2l Sprite
